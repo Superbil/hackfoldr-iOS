@@ -1,3 +1,5 @@
+This project is moved to [hackfoldr/hackfoldr-iOS](https://github.com/hackfoldr/hackfoldr-iOS).
+
 # hackfoldr-iOS #
 
 This is a simple iOS client for [hackfoldr](https://github.com/hackfoldr/hackfoldr)
